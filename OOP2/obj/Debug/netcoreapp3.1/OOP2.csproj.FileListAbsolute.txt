@@ -1,0 +1,14 @@
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\bin\Debug\netcoreapp3.1\OOP2.exe
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\bin\Debug\netcoreapp3.1\OOP2.deps.json
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.json
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\bin\Debug\netcoreapp3.1\OOP2.runtimeconfig.dev.json
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\bin\Debug\netcoreapp3.1\OOP2.dll
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\bin\Debug\netcoreapp3.1\OOP2.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.AssemblyReference.cache
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfoInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.AssemblyInfo.cs
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.dll
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\OOP2\OOP2\obj\Debug\netcoreapp3.1\OOP2.genruntimeconfig.cache
